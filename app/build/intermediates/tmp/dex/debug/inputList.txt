@@ -1,0 +1,5 @@
+D:\Project\MyContanct\app\build\intermediates\classes\debug
+D:\Project\MyContanct\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-77a8c416637e9b04b9d7c1e79a413e5cfd8dcc06.jar
+D:\Project\MyContanct\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b0e3443296d48a3c10fce0e9dbd15ec0388d9818.jar
+D:\Project\MyContanct\app\build\intermediates\pre-dexed\debug\classes-8e30a9c713c736fd377a06220bef5c3f48560f14.jar
+D:\Project\MyContanct\app\build\intermediates\pre-dexed\debug\classes-de3820a43756ecd84e128f8041b933a5f760c131.jar
